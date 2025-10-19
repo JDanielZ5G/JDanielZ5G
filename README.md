@@ -5,6 +5,7 @@
 - 📫 wjdaniel379@gmail.com 
 - ⚡ Fun fact: i am open to learning
 
-
+<--
 JDanielZ5G/JDanielZ5G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+-->
